@@ -5,5 +5,4 @@ import random
 import sys
 from modules.util import *
 import readkeys
-
-typeReplace("yo, yo, wassup, bro?")
+from replit import audio
